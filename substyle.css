@@ -1,0 +1,110 @@
+/*.bgimg {
+	background-image: url(Images/fort.jpg);
+	background-attachment: fixed;
+	background-size: cover;*/
+}
+.image {
+    margin-left: -332px;
+    margin-top: -125px;
+}
+/*.navbar{
+	background-image: url(Images/);
+}*/
+
+.bg-img{
+	background-image: url(Images/fort.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.div-height{
+	height: 97vh;
+}
+.hero{
+	position: relative;
+	top: 0px;
+	/*left: 271px;*/
+	background-image: url(Images/oracle.jpg);
+	background-repeat: no-repeat;
+	height: 400px;
+	margin-bottom: 0px;
+	/*padding: 0px 30px;*/
+	margin-left: 270px;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 30px;
+  color: #565657;
+ 
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+	text-decoration: none;
+	/* background-color: #eee;*/
+	color: #000;
+	border-bottom: 1px solid #000;
+}
+.navbar-nav > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
+
+.margin-left {
+	position: relative;
+	left: 350px;
+	top: 13px;
+}
+.brand {
+	position: relative;
+	top: -70px;
+	left: -323px;
+}
+.image {
+	margin-left: -90px
+}
+
+
+.h-align {
+	text-align: center;
+}
+.paragraph-center {
+	margin-top: 150px;
+}
+.paragraph-center h3 p{
+	font-family: Arial-round;
+}
+
+.a-center{
+	margin-left: 116px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.c-height {
+	/*height: 400px;*/
+}
+.listed-items ul {
+	text-decoration: none;
+}
+.listed-items li {
+	float: left;
+
+}
+.client-bg{
+	background-color: #ebebeb;
+	padding-bottom: 150px;
+	padding-top: 50px;
+}
+.foota {
+	background-image: url(Images/dark.jpg);
+	/*padding-bottom: 100px;
+	padding-top: 100px;*/
+}
+.bg-color {
+	background-color: rgba(255,255,255,0.8);
+	padding-bottom: 100px;
+	padding-top: 100px;
+
+}
+/*.img {
+	margin-top: -41px;
+}*/
